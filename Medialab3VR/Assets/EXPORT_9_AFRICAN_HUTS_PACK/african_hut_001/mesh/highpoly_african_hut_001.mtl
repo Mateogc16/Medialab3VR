@@ -1,0 +1,46 @@
+# Blender 3.3.1 MTL File: 'African Village Hut 01.blend'
+# www.blender.org
+
+newmtl Mud
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Projects Blender/NCephalo Games/African Village/Textures/mud/T_concrete_yellowish_bc.png
+map_Ns D:/Projects Blender/NCephalo Games/African Village/Textures/mud/T_concrete_r.png
+map_Bump -bm 1.000000 D:/Projects Blender/NCephalo Games/African Village/Textures/mud/T_concrete_n.png
+
+newmtl Rope
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns D:/Projects Blender/NCephalo Games/African Village/Textures/rope/T_rope_r.png
+map_Bump -bm 1.000000 D:/Projects Blender/NCephalo Games/African Village/Textures/rope/T_rope_n.png
+
+newmtl Straw
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Ns D:/Projects Blender/NCephalo Games/African Village/Textures/straw/Straw Material_roughness.png
+map_d D:/Projects Blender/NCephalo Games/African Village/Textures/straw/TexturesCom_Roofing_Thatched_1K_alpha.tif
+map_Bump -bm 2.000000 D:/Projects Blender/NCephalo Games/African Village/Textures/straw/Straw Material_normal.png
+
+newmtl Wood
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns D:/Projects Blender/NCephalo Games/African Village/Textures/wood/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/Projects Blender/NCephalo Games/African Village/Textures/wood/T_wood_raw_n_strong.png
