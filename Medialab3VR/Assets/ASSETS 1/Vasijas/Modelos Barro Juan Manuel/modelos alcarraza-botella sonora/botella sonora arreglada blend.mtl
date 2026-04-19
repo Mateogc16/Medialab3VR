@@ -1,0 +1,13 @@
+# Blender 5.1.1 MTL File: 'vasija arreglada blend.blend'
+# www.blender.org
+
+newmtl Material_001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/ASUS/Downloads/Modelados Bajar Poligonos/Modelados Bajar Poligonos/Botella Sonora/Material_001_diffuse_0.png
+map_Bump C:/Users/ASUS/Downloads/Modelados Bajar Poligonos/Modelados Bajar Poligonos/Botella Sonora/Material_001_normal_1.png
