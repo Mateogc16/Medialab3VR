@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 52
+  controlID: 62
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 418
     height: 933
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 337
     height: 667
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 53
+  controlID: 63
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 54
+  controlID: 64
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -814,7 +814,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
     m_DynamicPanelBehavior: 0
   m_SearchFilter:
-    m_NameFilter: xr origin
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -824,58 +824,47 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Modelos Medialab/semana 27 abril/semana 27 abril
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
-    m_OriginalText: xr origin
+    m_OriginalText: 
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Modelos Medialab/semana 27 abril/semana 27 abril
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Documentos (E)\Trabajos\Medialab 3\Medialab3VR\Medialab3VR
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 900}
+    scrollPos: {x: 0, y: 356}
     m_SelectedIDs:
-    - m_Data: 72748
+    - m_Data: 84814
     m_LastClickedID:
-      m_Data: 72748
+      m_Data: 84814
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 71834
-    - m_Data: 71836
-    - m_Data: 71838
-    - m_Data: 71840
-    - m_Data: 72728
-    - m_Data: 72730
-    - m_Data: 72736
-    - m_Data: 72740
-    - m_Data: 72742
-    - m_Data: 72756
-    - m_Data: 72758
-    - m_Data: 74878
-    - m_Data: 74880
-    - m_Data: 74896
-    - m_Data: 74900
-    - m_Data: 74912
-    - m_Data: 74914
-    - m_Data: 84296
-    - m_Data: 84482
-    - m_Data: 110172
-    - m_Data: 110200
-    - m_Data: 110336
-    - m_Data: 110414
-    - m_Data: 110420
-    - m_Data: 110698
-    - m_Data: 110768
-    - m_Data: 141724
-    - m_Data: 246912
+    - m_Data: 73664
+    - m_Data: 73666
+    - m_Data: 73668
+    - m_Data: 73670
+    - m_Data: 75596
+    - m_Data: 75604
+    - m_Data: 76360
+    - m_Data: 76366
+    - m_Data: 76368
+    - m_Data: 76372
+    - m_Data: 76374
+    - m_Data: 76376
+    - m_Data: 76402
+    - m_Data: 76434
+    - m_Data: 76436
+    - m_Data: 84814
+    - m_Data: 84820
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -910,10 +899,10 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 71834
-    - m_Data: 71836
-    - m_Data: 71838
-    - m_Data: 71840
+    - m_Data: 73664
+    - m_Data: 73666
+    - m_Data: 73668
+    - m_Data: 73670
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -941,8 +930,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 253008
-    m_LastClickedInstanceID: 253008
+    - m_Data: 81790
+    m_LastClickedInstanceID: 81790
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 74386
@@ -967,6 +956,8 @@ MonoBehaviour:
     - m_Data: 84314
     - m_Data: 246904
     - m_Data: 84304
+    - m_Data: 76384
+    - m_Data: 76396
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1089,32 +1080,16 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 253008
+      - m_Data: 81790
       m_LastClickedID:
-        m_Data: 253008
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -233046
-      - m_Data: -232398
-      - m_Data: -225422
-      - m_Data: -224804
-      - m_Data: -212994
-      - m_Data: -204096
-      - m_Data: -197156
-      - m_Data: -190034
-      - m_Data: -116454
-      - m_Data: -76370
-      - m_Data: -61856
-      - m_Data: -52788
-      - m_Data: -27240
-      - m_Data: -26406
-      - m_Data: -24664
-      - m_Data: -12504
-      - m_Data: -12218
-      - m_Data: -1360
-      - m_Data: 73848
-      - m_Data: 82386
-      - m_Data: 235742
-      - m_Data: 236992
+      - m_Data: -20180
+      - m_Data: -19604
+      - m_Data: -1336
+      - m_Data: 80606
+      - m_Data: 81122
+      - m_Data: 81390
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1777,9 +1752,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 569.7398, y: 253.58821, z: 75.7641}
+    m_Target: {x: 6.373236, y: 140.77658, z: -46.252113}
     speed: 2
-    m_Value: {x: 569.7398, y: 253.58821, z: 75.7641}
+    m_Value: {x: 6.373236, y: 140.77658, z: -46.252113}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1825,13 +1800,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.24799693, y: -0.17692418, z: 0.046119884, w: 0.95135665}
+    m_Target: {x: -0.012241781, y: -0.76166844, z: 0.014395495, w: -0.64769465}
     speed: 2
-    m_Value: {x: 0.24792609, y: -0.17835002, z: 0.046491567, w: 0.9510849}
+    m_Value: {x: -0.012241755, y: -0.76166683, z: 0.014395464, w: -0.6476933}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 0.6005103
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 0.6005103
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: b85a6da574f8d1c4b905df43b3526de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: tripo_mat_f6f7a9fc-c953-401a-8e57-381be1b5c835
     second: {fileID: 2100000, guid: 95d0f5cc033ec084eb929439c5156220, type: 2}
   materials:
