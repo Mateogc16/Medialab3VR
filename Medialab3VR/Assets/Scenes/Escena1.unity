@@ -5898,7 +5898,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1001 &861790824
 PrefabInstance:
@@ -8461,7 +8461,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1001 &1194017540
 PrefabInstance:
@@ -9640,7 +9640,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1001 &1356129131
 PrefabInstance:
@@ -10751,7 +10751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1546262494}
   m_Layer: 0
-  m_Name: Tutoriales
+  m_Name: ---Tutoriales---
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
