@@ -1,0 +1,6 @@
+newmtl material_0
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd cuenco+con+arcilla.obj_basecolor.jpg
+
