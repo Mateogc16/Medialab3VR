@@ -15964,7 +15964,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1f674d0ac0301648bf082eed9e2977c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortalEscena
-  nombreEscenaDestino: Escena2
+  nombreEscenaDestino: Anim2
 --- !u!4 &1877646200 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1151388028547126963, guid: 9a565120f1a195c439bc4001e90ffcab, type: 3}

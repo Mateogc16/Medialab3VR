@@ -24,7 +24,7 @@ public class MenuVR : MonoBehaviour
     void Start()
     {
         // Configurar acciones de los botones
-        botonInicio.onClick.AddListener(() => SceneManager.LoadScene("Escena1"));
+        botonInicio.onClick.AddListener(() => SceneManager.LoadScene("Anim1"));
         botonSeleccionarZona.onClick.AddListener(AbrirMenuZonas);
 
         botonZona1.onClick.AddListener(() => SceneManager.LoadScene("Escena1"));

@@ -9,11 +9,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 10a328ddb49a6724998d6dccc86460b8
   - enabled: 1
+    path: Assets/Scenes/Anim1.unity
+    guid: 83e940be45b47ef449b75f9833bbe3c8
+  - enabled: 1
     path: Assets/Scenes/Escena1.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
+    path: Assets/Scenes/Anim2.unity
+    guid: 1aacd1cc7b754894699b0a5109d2462f
+  - enabled: 1
     path: Assets/Scenes/Escena2.unity
     guid: d6c28dbe8e62d8d468933060b424fbe4
+  - enabled: 1
+    path: Assets/Scenes/Anim3.unity
+    guid: 580cf2b9afa139c4191bd16c25d22b59
   - enabled: 1
     path: Assets/Scenes/Escena3.unity
     guid: 6b54fb9bf50adc5408c1ce12d3cb5a2a
